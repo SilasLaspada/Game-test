@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510609028 source:c:\users\silas\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
